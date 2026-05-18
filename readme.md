@@ -181,4 +181,3 @@ Currently tuned for **Snowflake SQL**. Other dialects are partially supported vi
 ## Acknowledgements
 
 Built on top of [sqlglot](https://github.com/tobymao/sqlglot) — an outstanding open source SQL parser.
-```
