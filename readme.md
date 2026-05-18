@@ -57,7 +57,7 @@ Penalties are **context-aware** — not hardcoded thresholds. A query with 5 JOI
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/sqlanalyzer.git
+git clone https://github.com/PriyanshuSaxena2612/sqlanalyzer.git
 cd sqlanalyzer
 pip install -r requirements.txt
 ```
